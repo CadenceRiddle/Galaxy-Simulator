@@ -1,0 +1,1 @@
+Project for displaying an image of the galaxy generated using math and python. Open in IDE to run.
